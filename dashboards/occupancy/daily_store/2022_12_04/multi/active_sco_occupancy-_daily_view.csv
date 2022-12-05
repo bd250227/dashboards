@@ -1,0 +1,35 @@
+,Time,SCO Lanes,Capacity vs Traffic,Lane Hours (hh:mm),Time Available (hh:mm),% Time Available,% Time Occupied,Avg. Basket Count Per Hour,Avg. Item Count per hr.
+1,13:00,terminal01,Capacity Exceeds Traffic,01:00,01:00,100.0%,0.0%,0,0
+2,13:00,terminal02,Capacity Exceeds Traffic,01:00,00:00,0.0%,,0,0
+3,13:00,terminal03,Capacity Exceeds Traffic,01:00,00:00,0.0%,,0,0
+4,13:00,,Capacity Exceeds Traffic,03:00,01:00,33.3%,0.0%,0,0
+5,14:00,terminal01,Capacity Exceeds Traffic,01:00,01:00,100.0%,0.0%,0,0
+6,14:00,terminal02,Capacity Exceeds Traffic,01:00,00:00,0.0%,,0,0
+7,14:00,terminal03,Capacity Exceeds Traffic,01:00,00:00,0.0%,,0,0
+8,14:00,,Capacity Exceeds Traffic,03:00,01:00,33.3%,0.0%,0,0
+9,15:00,terminal01,Capacity Exceeds Traffic,01:00,01:00,100.0%,0.0%,0,0
+10,15:00,terminal02,Capacity Exceeds Traffic,01:00,00:00,0.0%,,0,0
+11,15:00,terminal03,Capacity Exceeds Traffic,01:00,00:00,0.0%,,0,0
+12,15:00,,Capacity Exceeds Traffic,03:00,01:00,33.3%,0.0%,0,0
+13,16:00,terminal01,Capacity Exceeds Traffic,01:00,01:00,100.0%,0.0%,0,0
+14,16:00,terminal02,Capacity Exceeds Traffic,01:00,00:00,0.0%,,0,0
+15,16:00,terminal03,Capacity Exceeds Traffic,01:00,00:00,0.0%,,0,0
+16,16:00,,Capacity Exceeds Traffic,03:00,01:00,33.3%,0.0%,0,0
+17,17:00,terminal01,Capacity Exceeds Traffic,01:00,01:00,100.0%,0.0%,0,0
+18,17:00,terminal02,Capacity Exceeds Traffic,01:00,00:00,0.0%,,0,0
+19,17:00,terminal03,Capacity Exceeds Traffic,01:00,00:00,0.0%,,0,0
+20,17:00,,Capacity Exceeds Traffic,03:00,01:00,33.3%,0.0%,0,0
+21,18:00,terminal01,Capacity Exceeds Traffic,01:00,01:00,100.0%,0.0%,0,0
+22,18:00,terminal02,Capacity Exceeds Traffic,01:00,00:00,0.0%,,0,0
+23,18:00,terminal03,Capacity Exceeds Traffic,01:00,00:00,0.0%,,0,0
+24,18:00,,Capacity Exceeds Traffic,03:00,01:00,33.3%,0.0%,0,0
+25,19:00,terminal01,Capacity Exceeds Traffic,01:00,01:00,100.0%,0.0%,0,0
+26,19:00,terminal02,Capacity Exceeds Traffic,01:00,00:00,0.0%,,0,0
+27,19:00,terminal03,Capacity Exceeds Traffic,01:00,00:00,0.0%,,0,0
+28,19:00,,Capacity Exceeds Traffic,03:00,01:00,33.3%,0.0%,0,0
+29,20:00,terminal01,Capacity Exceeds Traffic,01:00,01:00,100.0%,0.0%,0,0
+30,20:00,terminal02,Capacity Exceeds Traffic,01:00,00:00,0.0%,,0,0
+31,20:00,terminal03,Capacity Exceeds Traffic,01:00,00:00,0.0%,,0,0
+32,20:00,,Capacity Exceeds Traffic,03:00,01:00,33.3%,0.0%,0,0
+33,,,,24:00,08:00,33.3%,0.0%,0,0
+,,,,24:00,08:00,33.3%,0.0%,0,0

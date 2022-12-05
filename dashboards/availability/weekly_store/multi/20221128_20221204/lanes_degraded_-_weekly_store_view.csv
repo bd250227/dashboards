@@ -1,0 +1,17 @@
+,SCO Lanes,Degraded Reason,Time Degraded,% Time Degradad,% Change Last 4 Weeks,Time Not Degraded,% Time Not Degraded ,% Change Last 4 Weeks,Full Days Not Degraded,% Full Days Not Degraded ,% Change Last 4 Weeks
+1,terminal01,degradedNoCard,00:00,0.0%,,40:25,100.0%,0.0%,7/7,100.0%,0.0%
+2,terminal01,degradedNoCard,00:00,0.0%,,40:25,100.0%,0.0%,7/7,100.0%,0.0%
+3,terminal01,degradedNoCash,00:00,0.0%,,40:25,100.0%,0.0%,7/7,100.0%,0.0%
+4,terminal01,degradedNoCash,00:00,0.0%,,40:25,100.0%,0.0%,7/7,100.0%,0.0%
+5,terminal01,,00:00,0.0%,,40:25,100.0%,0.0%,7/7,100.0%,0.0%
+6,terminal02,degradedNoCard,00:04,0.2%,138.1%,38:31,99.8%,-0.1%,6/7,85.7%,-10.7%
+7,terminal02,degradedNoCard,00:04,0.2%,138.1%,38:31,99.8%,-0.1%,6/7,85.7%,-10.7%
+8,terminal02,degradedNoCash,04:03,10.5%,138.1%,34:32,89.5%,-6.4%,6/7,85.7%,-10.7%
+9,terminal02,degradedNoCash,04:03,10.5%,138.1%,34:32,89.5%,-6.4%,6/7,85.7%,-10.7%
+10,terminal02,,04:07,10.7%,138.1%,34:28,89.3%,-6.5%,6/7,85.7%,-10.7%
+11,terminal03,degradedNoCard,00:00,0.0%,,33:15,100.0%,0.0%,7/7,100.0%,0.0%
+12,terminal03,degradedNoCard,00:00,0.0%,,33:15,100.0%,0.0%,7/7,100.0%,0.0%
+13,terminal03,degradedNoCash,00:00,0.0%,,33:15,100.0%,0.0%,7/7,100.0%,0.0%
+14,terminal03,degradedNoCash,00:00,0.0%,,33:15,100.0%,0.0%,7/7,100.0%,0.0%
+15,terminal03,,00:00,0.0%,,33:15,100.0%,0.0%,7/7,100.0%,0.0%
+,,,04:07,3.7%,136.1%,108:08,96.3%,-2.1%,,95.2%,-3.5%

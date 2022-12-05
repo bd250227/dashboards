@@ -1,0 +1,19 @@
+,Time,SCO Lanes,Capacity vs Traffic,Lane Hours (hh:mm),Time Available (hh:mm),% Time Available,% Time Occupied,Avg. Basket Count Per Hour,Avg. Item Count per hr.
+1,13:00,terminal01,Capacity Exceeds Traffic,01:00,01:00,100.0%,0.0%,0,0
+2,13:00,,Capacity Exceeds Traffic,01:00,01:00,100.0%,0.0%,0,0
+3,14:00,terminal01,Capacity Exceeds Traffic,01:00,01:00,100.0%,0.0%,0,0
+4,14:00,,Capacity Exceeds Traffic,01:00,01:00,100.0%,0.0%,0,0
+5,15:00,terminal01,Capacity Exceeds Traffic,01:00,01:00,100.0%,0.0%,0,0
+6,15:00,,Capacity Exceeds Traffic,01:00,01:00,100.0%,0.0%,0,0
+7,16:00,terminal01,Capacity Exceeds Traffic,01:00,01:00,100.0%,1.2%,1,55
+8,16:00,,Capacity Exceeds Traffic,01:00,01:00,100.0%,1.2%,1,55
+9,17:00,terminal01,Capacity Exceeds Traffic,01:00,01:00,100.0%,8.6%,2,2
+10,17:00,,Capacity Exceeds Traffic,01:00,01:00,100.0%,8.6%,2,2
+11,18:00,terminal01,Capacity Exceeds Traffic,01:00,01:00,100.0%,22.2%,2,2
+12,18:00,,Capacity Exceeds Traffic,01:00,01:00,100.0%,22.2%,2,2
+13,19:00,terminal01,Capacity Exceeds Traffic,01:00,01:00,100.0%,57.0%,1,"5,501"
+14,19:00,,Capacity Exceeds Traffic,01:00,01:00,100.0%,57.0%,1,"5,501"
+15,20:00,terminal01,Capacity Exceeds Traffic,01:00,00:57,95.0%,58.9%,2,4
+16,20:00,,Capacity Exceeds Traffic,01:00,00:57,95.0%,58.9%,2,4
+17,,,,08:00,07:57,99.4%,18.2%,1,586
+,,,,08:00,07:57,99.4%,18.2%,1,586

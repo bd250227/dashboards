@@ -1,0 +1,5 @@
+,Lane SCO,Lane Hours (hh:mm),Time Available (hh:mm),% Time Available,Time Closed (hh:mm),% Time Closed,Time Down (hh:mm),% Time Down
+1,terminal03,56:00,33:15,59.4%,11:59,21.4%,10:46,19.2%
+2,terminal02,56:00,38:35,68.9%,05:26,9.7%,11:59,21.4%
+3,terminal01,56:00,40:25,72.2%,11:34,20.7%,04:00,7.2%
+,,168:00,112:15,66.8%,28:59,17.3%,26:46,15.9%
