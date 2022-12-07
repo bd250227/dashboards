@@ -1,0 +1,7 @@
+,Stores,Degraded Reason,Time Degraded (hh:mm),% Time Degraded,% Change Last 7 Days,Time Not Degraded (hh:mm),% Time Not Degraded ,% Change Last 7 Days
+1,s00008-eurolane-ghq-v2,degradedNoCash,00:00,0.0%,,04:07,100.0%,0.0%
+2,s00008-eurolane-ghq-v2,degradedNoCash,00:00,0.0%,,04:07,100.0%,0.0%
+3,s00008-eurolane-ghq-v2,degradedNoCard,00:00,0.0%,,04:07,100.0%,0.0%
+4,s00008-eurolane-ghq-v2,degradedNoCard,00:00,0.0%,,04:07,100.0%,0.0%
+5,s00008-eurolane-ghq-v2,,00:00,0.0%,,04:07,100.0%,0.0%
+,,,00:00,0.0%,,04:07,100.0%,0.0%
